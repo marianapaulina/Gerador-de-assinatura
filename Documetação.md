@@ -2,6 +2,9 @@
 
 Este é um programa que permite gerar uma assinatura com informações pessoais, como nome, cargo, e-mail e telefone, e escolher a cor do cartão da assinatura.
 
+![Exemplo de imagem](1.jpg)
+
+
 ## Bibliotecas utilizadas
 
 O programa utiliza as seguintes bibliotecas:
