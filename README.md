@@ -2,6 +2,8 @@
 Gerador de assinaturas de email feito em Python, que permite criar assinaturas personalizadas. 
 # Gerador de assinaturas
 ![Exemplo de imagem](1.png)
+
+
 Este é um programa que permite gerar uma assinatura com informações pessoais, como nome, cargo, e-mail e telefone, e escolher a cor do cartão da assinatura.
 
 ## Bibliotecas utilizadas
