@@ -49,5 +49,5 @@ A interface gráfica consiste em uma janela com os seguintes elementos:
 
 ## Uso
 
-Para executar o programa, basta rodar o arquivo Python. A interface gráfica será aberta e o usuário poderá preencher os campos e selecionar a cor do cartão. Ao clicar no botão "Gerar assinatura", a imagem da assinatura será gerada e salva em um arquivo PNG na pasta Downloads do usuário.
+Para executar o programa, basta rodar o arquivo exe. Python. A interface gráfica será aberta e o usuário poderá preencher os campos e selecionar a cor do cartão. Ao clicar no botão "Gerar assinatura", a imagem da assinatura será gerada e salva em um arquivo PNG na pasta Downloads do usuário.
 
